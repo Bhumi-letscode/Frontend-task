@@ -1,7 +1,10 @@
 {
+  "$schema": "https://json.schemastore.org/package.json",
   "dependencies": {
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "lucide-react": "^0.367.0",
+  "recharts": "^2.9.0"
   },
   "devDependencies": {
     "@types/react": "^19.0.2",
